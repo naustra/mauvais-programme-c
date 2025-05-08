@@ -8,8 +8,8 @@ Ce programme, bien qu'il fonctionne et produise un résultat, a été écrit de 
 
 Votre mission est de réorganiser intégralement ce code pour le rendre :
 
-- _Plus clair et lisible_ : une autre personne (ou vous-même dans quelques mois) doit pouvoir le comprendre facilement.
-- _Mieux structuré_ : les données et les opérations doivent être regroupées de manière logique.
-- _Plus facile à maintenir et à faire évoluer_ : les modifications futures devraient être plus simples à implémenter.
+- **Plus clair et lisible** : une autre personne (ou vous-même dans quelques mois) doit pouvoir le comprendre facilement.
+- **Mieux structuré** : les données et les opérations doivent être regroupées de manière logique.
+- **Plus facile à maintenir et à faire évoluer** : les modifications futures devraient être plus simples à implémenter.
 
 Réfléchissez à la meilleure façon de représenter les informations de chaque 'item' et comment découper le traitement global en blocs de code plus petits, spécialisés et réutilisables. Le programme final doit toujours accomplir la même tâche et afficher les mêmes types d'informations, mais son organisation interne doit être grandement améliorée.
