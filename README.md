@@ -1,3 +1,7 @@
+## Description
+
+Ce programme simule la gestion d'un petit inventaire de produits pour un commerçant. Il enregistre quelques articles (par exemple, différents types de fruits), avec leur nom, leur poids, leur prix à l'unité et la quantité actuellement en stock. Ensuite, il calcule la valeur totale de cet inventaire, identifie quel article est le plus cher à l'unité, et affiche un résumé de ces informations, utiles pour savoir ce que l'on possède et ce qui a le plus de valeur.
+
 ## Problèmes à identifier et corriger
 
 - **Variables Globales Abusives** : `noms_items`, `proprietes_items`, `quantites_items`, `item_actuel_index`, `total_valeur_inventaire_calcul_temporaire`, etc.
